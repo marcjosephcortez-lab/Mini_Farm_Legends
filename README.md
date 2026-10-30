@@ -16,3 +16,4 @@ Run `npm run sync` again, then rebuild in Android Studio.
 - Only change vs. original HTML: the two CDN <script> tags (lines 11-12) now point to local files.
 - Save data uses localStorage (cloud save only runs if a Firebase config is injected, which it isn't here).
 - App ID: com.marcjoseph.minifarm3d  (change in capacitor.config.json before first `cap add`, or edit applicationId in android/app/build.gradle + package folder).
+"# Mini-Farm-Legend" 
