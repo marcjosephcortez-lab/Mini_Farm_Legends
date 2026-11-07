@@ -81,4 +81,4 @@ Core farming loop, levels, crops, tools, animals, achievements, save/load and tu
 - [Tailwind CSS](https://tailwindcss.com/): styling (MIT License)
 - [Capacitor](https://capacitorjs.com/): Android packaging (MIT License)
 - All 3D models are built from Three.js primitives in code. Sound effects are synthesized with the Web Audio API. No external model or audio files are used.
-- Parts of the code were written with the help of AI coding assistants, including Lovable. See `IMPROVEMENTS.md` for the development history.
+- Parts of the code were written with the help of AI coding assistants, including ChatGPT, Lovable, Gemini, and Claude. See `IMPROVEMENTS.md` for the development history.
