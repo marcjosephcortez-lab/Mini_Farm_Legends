@@ -4,7 +4,7 @@ A low-poly 3D farming game for mobile (landscape) and desktop browsers, built wi
 
 **Individual game project by Marc Joseph Cortez.**
 
-## What's new (latest patch)
+## What's new in v1.2.0
 - **Animations:** smoother character and world animations
 - **Menu:** polished side pause menu and transitions
 - **Color grading:** warmer, more natural farm lighting and colors
@@ -13,6 +13,14 @@ A low-poly 3D farming game for mobile (landscape) and desktop browsers, built wi
 - **Joystick:** more responsive virtual joystick
 
 See the [Changelog](#changelog) for earlier updates.
+
+## Download (Android)
+Get the latest APK from the [**Releases page**](../../releases/latest).
+
+1. On your Android phone, open the Releases page and tap the `.apk` file under **Assets**.
+2. When asked, allow your browser to **install unknown apps**.
+3. Open the downloaded file and tap **Install**.
+4. Play in landscape.
 
 ## Objective
 Grow your farm from Level 1 to **Level 100**. Plant, water and harvest crops, sell your basket at the barn, earn XP and coins, and unlock better crops, tools, animals and achievements.
@@ -64,16 +72,16 @@ IMPROVEMENTS.md         Development change log
 ```
 
 ## Changelog
-### Latest patch
+### v1.2.0 (latest)
 Updated animations, menu, color grading, the character model, camera and joystick.
 
-### Pause menu update
+### v1.1.0: Pause menu update
 - Replaced the scattered buttons with one side menu (top-left) that pauses the game
 - Pausing stops movement, the joystick, camera look, farm actions and crop growth, and resumes exactly where you left off
 - Added Settings and Inventory panels
 - Moved Chat to its own button in the bottom-left corner
 
-### Initial release
+### v1.0.0: Initial release
 Core farming loop, levels, crops, tools, animals, achievements, save/load and tutorial.
 
 ## Credits
