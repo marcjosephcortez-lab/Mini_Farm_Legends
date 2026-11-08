@@ -4,7 +4,12 @@ A low-poly 3D farming game for mobile (landscape) and desktop browsers, built wi
 
 **Individual game project by Marc Joseph Cortez.**
 
-## What's new in v1.2.0
+## ▶️ Play now
+**[Play in your browser → minifarmlegends.lovable.app](https://minifarmlegends.lovable.app)**
+
+No download or setup needed. Works on computers and phones (turn your phone sideways). Your farm saves in your browser.
+
+## What's new in v1.2
 - **Animations:** smoother character and world animations
 - **Menu:** polished side pause menu and transitions
 - **Color grading:** warmer, more natural farm lighting and colors
@@ -15,7 +20,7 @@ A low-poly 3D farming game for mobile (landscape) and desktop browsers, built wi
 See the [Changelog](#changelog) for earlier updates.
 
 ## Download (Android)
-Get the latest APK from the [**Releases page**](../../releases/latest).
+Get the latest APK from the [**Releases page**](https://github.com/marcjosephcortez-lab/Mini_Farm_Legends/releases/latest).
 
 1. On your Android phone, open the Releases page and tap the `.apk` file under **Assets**.
 2. When asked, allow your browser to **install unknown apps**.
@@ -46,7 +51,8 @@ Grow your farm from Level 1 to **Level 100**. Plant, water and harvest crops, se
 - Local save/load with validation, plus 30-second auto-save
 - Interactive first-time tutorial
 
-## Run in a browser
+## Run it on your own computer (for developers)
+You only need this if you want to change the code. To just play, use the [website](https://minifarmlegends.lovable.app).
 ```bash
 cd www
 python -m http.server 8000
@@ -72,16 +78,16 @@ IMPROVEMENTS.md         Development change log
 ```
 
 ## Changelog
-### v1.2.0 (latest)
+### v1.2 (latest)
 Updated animations, menu, color grading, the character model, camera and joystick.
 
-### v1.1.0: Pause menu update
+### v1.1: Pause menu update
 - Replaced the scattered buttons with one side menu (top-left) that pauses the game
 - Pausing stops movement, the joystick, camera look, farm actions and crop growth, and resumes exactly where you left off
 - Added Settings and Inventory panels
 - Moved Chat to its own button in the bottom-left corner
 
-### v1.0.0: Initial release
+### v1.0: Initial release
 Core farming loop, levels, crops, tools, animals, achievements, save/load and tutorial.
 
 ## Credits
